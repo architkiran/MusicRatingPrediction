@@ -2,7 +2,8 @@
 ## Project Overview
 
 This project predicts **reviewer ratings (1–5)** of music releases using metadata and text features.  
-It’s a **multi-class classification** problem, evaluated with **Macro F1 Score** (as per Kaggle rules).
+It’s a **multi-class classification** problem, evaluated with **Macro F1 Score** 
+#### Kaggle Score: 0.50348
 
 Dataset fields include:
 - `summary`, `reviewText`, `genres` (text)
